@@ -1,0 +1,16 @@
+{
+  "contactDs": {
+    "host": "localhost",
+    "port": 5432,
+    "url": "postgres://angularws:angularws@localhost/angularws",
+    "database": "angularws",
+    "password": "angularws",
+    "name": "contactDs",
+    "user": "angularws",
+    "connector": "postgresql"
+  },
+  "contactDsMemory": {
+    "name": "contactDsMemory",
+    "connector": "memory"
+  }
+}
